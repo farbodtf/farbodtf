@@ -26,8 +26,8 @@ As an instructor, I love breaking down complex ideas into bite-sized, practical 
 
 ## 🔗 Connect with Me
 - 📫 Email: farbod.dev@gmail.com  
-- 🌐 Portfolio: [farboddev.ir](https://farboddev.ir)  
-- 🧰 GitHub: [github.com/farboddev](https://github.com/farboddev)
+- 🌐 Portfolio: [farbodtf.ir](https://farbodtf.ir)  
+- 🧰 GitHub: [github.com/farbodtf](https://github.com/farbodtf)
 
 ---
 
