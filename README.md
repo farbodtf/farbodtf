@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Farbod
 
-<!--
-**farbodtf/farbodtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full-Stack Web Developer | Instructor | AI Explorer  
+💬 Passionate about teaching, building scalable web apps, and diving into intelligent automation.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Vue, Bootstrap, Tailwind  
+- **Backend:** PHP, MySQL, Laravel, Node.js, Python  
+- **Tools & Platforms:** Git, GitHub, Docker, VS Code  
+- **Learning:** Python for AI, Machine Learning Fundamentals
+
+## 🚀 What I'm Working On
+- 🔗 Combining AI with web development to create smarter, more adaptive applications  
+- 🤖 Exploring LLMs (like GPT) and prompt engineering for natural language interfaces  
+- 🧠 Building tools that help automate everyday tasks in collaborative environments
+
+
+## ✍️ Teaching & Knowledge Sharing
+As an instructor, I love breaking down complex ideas into bite-sized, practical concepts — especially in modern web technologies and real-world development patterns.
+
+## 🌱 Currently Exploring
+- Natural Language Processing (NLP)  
+- Prompt Engineering  
+- Building AI-based features into full-stack apps  
+
+## 🔗 Connect with Me
+- 📫 Email: farbod.dev@gmail.com  
+- 🌐 Portfolio: [farboddev.ir](https://farboddev.ir)  
+- 🧰 GitHub: [github.com/farboddev](https://github.com/farboddev)
+
+---
+
+> “Code is a tool, but creativity is the engine.”  
+> – and I believe in building things that help people and bring ideas to life.
