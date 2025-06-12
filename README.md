@@ -25,7 +25,7 @@ As an instructor, I love breaking down complex ideas into bite-sized, practical 
 - Building AI-based features into full-stack apps  
 
 ## 🔗 Connect with Me
-- 📫 Email: farbod.dev@gmail.com  
+- 📫 Email: farbod.taherifard@gmail.com  
 - 🌐 Portfolio: [farbodtf.ir](https://farbodtf.ir)  
 - 🧰 GitHub: [github.com/farbodtf](https://github.com/farbodtf)
 
